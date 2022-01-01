@@ -24,7 +24,5 @@ I have set the time to 10 seconds, but it can be increased or decreased as per y
 
 ## Game Demo
 
-https://drive.google.com/file/d/13YoSI_XuJQy5NsPOi_YIAtod2ykUfFWW/view?usp=sharing
-
 https://user-images.githubusercontent.com/90982385/147849570-629730aa-2294-446c-96bf-101a8472242b.mp4
 
